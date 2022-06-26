@@ -9,4 +9,5 @@ export class AppComponent
 {
   title = 'Ass_12';
   public name = 'Marvellous';
+  public No = 11;
 }
